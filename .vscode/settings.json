@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\user\\Anaconda3\\python.exe",
+    "python.linting.pylintArgs": [
+        "--disble", "C0111,C0301",
+        "--load-plugins", "pylint_django"
+    ],
+}
